@@ -1,0 +1,152 @@
+Home_team,Away_team,Date_time,Venue,Fulltime_score_home,Fulltime_score_away,Halftime_score_home,Halftime_score_away,wx_temp_c,wx_precip_mm,wx_wind_kph,wx_weathercode,wx_summary,time_bucket,is_in_south_africa,is_main_home_stadium
+Cardiff,Zebre,"Fri 20th September 2024, 08:35pm SAST",Cardiff Arms Park,22,17,17,3,15.9,0.0,63.7,1,Mainly clear,evening,False,True
+Edinburgh,Leinster,"Fri 20th September 2024, 08:35pm SAST",Hive Stadium,31,33,12,12,13.3,0.0,56.2,3,Overcast,evening,False,True
+Dragons RFC,Ospreys,"Sat 21st September 2024, 04:00pm SAST",Rodney Parade,23,21,13,16,19.2,0.3,44.3,51,Drizzle: light,early_afternoon,False,True
+Munster,Connacht,"Sat 21st September 2024, 06:30pm SAST",Thomond Park,35,33,14,19,18.4,0.0,55.8,1,Mainly clear,late_afternoon,False,True
+Benetton,Scarlets,"Sat 21st September 2024, 08:35pm SAST",Stadio Comunale di Monigo,20,20,12,7,17.9,0.0,20.2,0,Clear,evening,False,True
+Ulster,Glasgow Warriors,"Sat 21st September 2024, 08:45pm SAST",Affidea Stadium,20,19,10,12,15.3,0.0,38.2,0,Clear,evening,False,True
+Glasgow Warriors,Benetton,"Fri 27th September 2024, 08:35pm SAST",Scotstoun Stadium,42,10,14,7,8.3,0.0,57.2,0,Clear,evening,False,True
+Leinster,Dragons RFC,"Fri 27th September 2024, 08:35pm SAST",Aviva Stadium,34,6,10,6,10.0,0.0,57.2,1,Mainly clear,evening,False,True
+Lions,Ulster,"Sat 28th September 2024, 12:55pm SAST",Ellis Park,35,22,15,5,27.0,0.0,105.5,3,Overcast,early_afternoon,True,True
+Bulls,Edinburgh,"Sat 28th September 2024, 03:00pm SAST",Loftus Versfeld,22,16,12,10,31.0,0.0,105.1,3,Overcast,late_afternoon,True,True
+Zebre,Munster,"Sat 28th September 2024, 04:00pm SAST",Stadio Sergio Lanfranchi,42,33,15,28,22.0,0.0,42.1,2,Partly cloudy,late_afternoon,False,True
+Scarlets,Cardiff,"Sat 28th September 2024, 06:15pm SAST",Parc y Scarlets,15,24,15,12,13.0,0.0,34.9,3,Overcast,late_afternoon,False,True
+Ospreys,Stormers,"Sat 28th September 2024, 08:35pm SAST",Brewery Field,37,24,13,16,12.0,0.0,31.0,3,Overcast,evening,False,False
+Connacht,Sharks,"Sat 28th September 2024, 08:35pm SAST",Dexcom Stadium,36,30,7,27,11.2,0.0,25.6,3,Overcast,evening,False,True
+Scarlets,Connacht,"Fri 4th October 2024, 08:35pm SAST",Parc y Scarlets,23,24,14,21,13.9,0.2,46.8,51,Drizzle: light,evening,False,True
+Cardiff,Glasgow Warriors,"Fri 4th October 2024, 08:35pm SAST",Cardiff Arms Park,36,52,12,33,12.5,0.0,48.6,3,Overcast,evening,False,True
+Lions,Edinburgh,"Sat 5th October 2024, 01:45pm SAST",Ellis Park,55,21,48,0,22.8,0.0,39.6,0,Clear,early_afternoon,True,True
+Bulls,Ulster,"Sat 5th October 2024, 04:00pm SAST",Loftus Versfeld,47,21,21,7,24.5,0.0,47.5,0,Clear,late_afternoon,True,True
+Benetton,Leinster,"Sat 5th October 2024, 06:15pm SAST",Stadio Comunale di Monigo,5,35,0,28,14.6,0.0,24.8,0,Clear,evening,False,True
+Dragons RFC,Sharks,"Sat 5th October 2024, 06:15pm SAST",Rodney Parade,30,33,22,12,15.1,0.0,77.4,3,Overcast,late_afternoon,False,True
+Munster,Ospreys,"Sat 5th October 2024, 08:35pm SAST",Virgin Media Park,23,0,18,0,13.3,1.2,107.6,55,Drizzle: dense,evening,False,False
+Zebre,Stormers,"Sat 5th October 2024, 08:35pm SAST",Stadio Sergio Lanfranchi,5,36,0,16,11.9,0.0,19.1,0,Clear,evening,False,True
+Glasgow Warriors,Zebre,"Fri 11th October 2024, 08:35pm SAST",Scotstoun Stadium,33,3,21,3,8.7,0.7,54.7,53,Drizzle: moderate,evening,False,True
+Benetton,Sharks,"Sat 12th October 2024, 04:00pm SAST",Stadio Comunale di Monigo,38,10,24,3,19.4,0.0,8.3,3,Overcast,late_afternoon,False,True
+Cardiff,Scarlets,"Sat 12th October 2024, 04:00pm SAST",Cardiff Arms Park,19,25,12,11,12.7,0.0,73.8,0,Clear,early_afternoon,False,True
+Edinburgh,Stormers,"Sat 12th October 2024, 06:15pm SAST",Hive Stadium,38,7,14,7,8.0,0.1,83.2,51,Drizzle: light,late_afternoon,False,True
+Leinster,Munster,"Sat 12th October 2024, 06:45pm SAST",Croke Park,26,12,26,5,10.4,0.0,92.2,0,Clear,late_afternoon,False,False
+Ospreys,Bulls,"Sat 12th October 2024, 08:35pm SAST",Swansea.com Stadium,19,29,5,26,9.9,0.1,60.8,51,Drizzle: light,evening,False,True
+Ulster,Connacht,"Sat 12th October 2024, 09:00pm SAST",Affidea Stadium,32,27,19,17,6.3,0.0,84.6,1,Mainly clear,evening,False,True
+Dragons RFC,Lions,"Sun 13th October 2024, 03:30pm SAST",Rodney Parade,19,23,12,13,10.0,0.0,32.4,3,Overcast,early_afternoon,False,True
+Ulster,Ospreys,"Fri 18th October 2024, 08:35pm SAST",Affidea Stadium,36,12,24,7,14.2,0.3,68.4,51,Drizzle: light,evening,False,True
+Scarlets,Bulls,"Fri 18th October 2024, 08:35pm SAST",Parc y Scarlets,23,22,10,19,14.9,0.3,77.0,51,Drizzle: light,evening,False,True
+Zebre,Lions,"Sat 19th October 2024, 01:30pm SAST",Stadio Sergio Lanfranchi,9,10,6,7,15.8,3.3,41.4,63,Rain: moderate,early_afternoon,False,True
+Sharks,Glasgow Warriors,"Sat 19th October 2024, 03:45pm SAST",Hollywoodbets Kings Park,28,24,15,12,22.1,0.0,59.8,3,Overcast,late_afternoon,True,True
+Stormers,Munster,"Sat 19th October 2024, 06:00pm SAST",DHL Stadium,34,19,14,12,15.8,0.0,108.0,0,Clear,evening,True,True
+Edinburgh,Cardiff,"Sat 19th October 2024, 06:15pm SAST",Hive Stadium,27,8,3,5,12.7,0.0,33.8,0,Clear,late_afternoon,False,True
+Connacht,Leinster,"Sat 19th October 2024, 08:35pm SAST",Dexcom Stadium,12,33,5,21,12.3,0.0,52.2,3,Overcast,evening,False,True
+Dragons RFC,Benetton,"Sat 19th October 2024, 08:35pm SAST",Rodney Parade,21,31,7,10,11.3,0.0,27.0,3,Overcast,evening,False,True
+Scarlets,Zebre,"Fri 25th October 2024, 08:35pm SAST",Parc y Scarlets,30,8,11,8,12.3,0.0,54.0,0,Clear,evening,False,True
+Benetton,Bulls,"Fri 25th October 2024, 08:35pm SAST",Stadio Comunale di Monigo,15,17,9,3,16.2,0.0,21.6,3,Overcast,evening,False,True
+Stormers,Glasgow Warriors,"Sat 26th October 2024, 01:45pm SAST",Danie Craven Stadium,17,28,7,7,27.1,0.0,67.3,3,Overcast,early_afternoon,True,False
+Ospreys,Edinburgh,"Sat 26th October 2024, 04:00pm SAST",Brewery Field,22,13,7,10,14.2,0.0,21.2,0,Clear,early_afternoon,False,False
+Sharks,Munster,"Sat 26th October 2024, 04:00pm SAST",Hollywoodbets Kings Park,41,24,31,10,21.4,0.0,34.9,1,Mainly clear,late_afternoon,True,True
+Leinster,Lions,"Sat 26th October 2024, 06:15pm SAST",Aviva Stadium,24,6,10,6,13.6,0.0,64.4,1,Mainly clear,late_afternoon,False,True
+Cardiff,Ulster,"Sat 26th October 2024, 08:35pm SAST",Cardiff Arms Park,21,19,0,19,9.9,0.0,13.3,0,Clear,evening,False,True
+Connacht,Dragons RFC,"Sat 26th October 2024, 08:35pm SAST",Dexcom Stadium,31,7,19,0,9.0,0.0,37.4,0,Clear,evening,False,True
+Ulster,Leinster,"Fri 29th November 2024, 09:35pm SAST",Affidea Stadium,20,27,13,10,12.4,0.3,101.2,51,Drizzle: light,evening,False,True
+Glasgow Warriors,Scarlets,"Fri 29th November 2024, 09:35pm SAST",Scotstoun Stadium,17,15,7,8,9.0,0.7,71.3,53,Drizzle: moderate,evening,False,True
+Sharks,Stormers,"Sat 30th November 2024, 05:00pm SAST",Hollywoodbets Kings Park,21,15,14,3,24.5,0.0,53.6,0,Clear,late_afternoon,True,True
+Cardiff,Dragons RFC,"Sat 30th November 2024, 07:15pm SAST",Cardiff Arms Park,31,23,17,9,13.1,0.0,57.6,3,Overcast,late_afternoon,False,True
+Connacht,Bulls,"Sat 30th November 2024, 07:30pm SAST",Dexcom Stadium,14,28,0,14,14.4,0.0,144.7,3,Overcast,late_afternoon,False,True
+Edinburgh,Benetton,"Sat 30th November 2024, 09:35pm SAST",Hive Stadium,50,33,35,0,13.2,0.0,108.0,3,Overcast,evening,False,True
+Zebre,Ospreys,"Sat 30th November 2024, 09:35pm SAST",Stadio Sergio Lanfranchi,22,17,12,10,5.3,0.0,5.4,0,Clear,evening,False,True
+Munster,Lions,"Sat 30th November 2024, 09:35pm SAST",Thomond Park,17,10,7,10,13.5,0.6,106.6,53,Drizzle: moderate,evening,False,True
+Ulster,Munster,"Fri 20th December 2024, 09:35pm SAST",Affidea Stadium,19,22,7,5,7.0,0.0,70.2,2,Partly cloudy,evening,False,True
+Benetton,Zebre,"Sat 21st December 2024, 03:00pm SAST",Stadio Comunale di Monigo,11,10,5,3,7.6,0.0,8.3,0,Clear,late_afternoon,False,True
+Stormers,Lions,"Sat 21st December 2024, 03:45pm SAST",DHL Stadium,29,10,15,0,24.7,0.0,95.8,0,Clear,late_afternoon,True,True
+Sharks,Bulls,"Sat 21st December 2024, 06:00pm SAST",Hollywoodbets Kings Park,20,17,10,14,27.0,0.0,52.6,3,Overcast,evening,True,True
+Ospreys,Scarlets,"Sat 21st December 2024, 07:15pm SAST",Swansea.com Stadium,23,22,8,19,10.0,0.0,106.2,3,Overcast,late_afternoon,False,True
+Leinster,Connacht,"Sat 21st December 2024, 07:30pm SAST",Aviva Stadium,20,12,14,0,7.8,0.0,112.7,3,Overcast,late_afternoon,False,True
+Glasgow Warriors,Edinburgh,"Sun 22nd December 2024, 05:00pm SAST",Hampden Park,33,14,21,0,6.3,0.0,105.8,1,Mainly clear,late_afternoon,False,False
+Dragons RFC,Cardiff,"Thu 26th December 2024, 07:15pm SAST",Rodney Parade,22,24,15,5,7.1,0.0,15.8,3,Overcast,late_afternoon,False,True
+Munster,Leinster,"Fri 27th December 2024, 09:35pm SAST",Thomond Park,7,28,0,14,9.7,0.0,32.4,3,Overcast,evening,False,True
+Stormers,Sharks,"Sat 28th December 2024, 05:00pm SAST",DHL Stadium,24,20,5,10,26.1,0.0,64.4,0,Clear,late_afternoon,True,True
+Edinburgh,Glasgow Warriors,"Sat 28th December 2024, 05:00pm SAST",Scottish Gas Murrayfield,10,7,3,0,10.3,0.0,73.8,3,Overcast,late_afternoon,False,False
+Zebre,Benetton,"Sat 28th December 2024, 05:00pm SAST",Stadio Sergio Lanfranchi,12,24,7,10,8.7,0.0,13.3,0,Clear,late_afternoon,False,True
+Connacht,Ulster,"Sat 28th December 2024, 09:35pm SAST",Dexcom Stadium,7,17,7,10,7.7,0.0,37.8,2,Partly cloudy,evening,False,True
+Cardiff,Ospreys,"Wed 1st January 2025, 05:00pm SAST",Cardiff Arms Park,13,13,5,3,7.4,0.3,90.4,51,Drizzle: light,late_afternoon,False,True
+Scarlets,Dragons RFC,"Wed 1st January 2025, 07:15pm SAST",Parc y Scarlets,32,15,24,3,7.3,0.0,54.0,3,Overcast,late_afternoon,False,True
+Ospreys,Benetton,"Fri 24th January 2025, 09:35pm SAST",Swansea.com Stadium,43,0,24,0,7.1,0.2,74.5,51,Drizzle: light,evening,False,True
+Lions,Bulls,"Sat 25th January 2025, 02:45pm SAST",Ellis Park,22,35,11,10,28.7,0.0,51.1,1,Mainly clear,early_afternoon,True,True
+Scarlets,Edinburgh,"Sat 25th January 2025, 05:00pm SAST",Parc y Scarlets,30,24,13,12,7.6,0.1,56.2,51,Drizzle: light,late_afternoon,False,True
+Leinster,Stormers,"Sat 25th January 2025, 07:00pm SAST",Aviva Stadium,36,12,15,7,5.3,0.1,50.8,51,Drizzle: light,late_afternoon,False,True
+Cardiff,Sharks,"Sat 25th January 2025, 07:15pm SAST",Cardiff Arms Park,22,42,10,21,6.3,0.0,24.8,3,Overcast,late_afternoon,False,True
+Dragons RFC,Munster,"Sat 25th January 2025, 09:35pm SAST",Rodney Parade,19,38,0,31,5.1,0.0,54.4,3,Overcast,evening,False,True
+Glasgow Warriors,Connacht,"Sun 26th January 2025, 05:30pm SAST",Scotstoun Stadium,22,19,17,5,3.9,0.0,77.4,3,Overcast,late_afternoon,False,True
+Ulster,Zebre,"Sun 26th January 2025, 07:30pm SAST",Affidea Stadium,14,15,0,3,5.9,1.0,128.9,55,Drizzle: dense,late_afternoon,False,True
+Stormers,Bulls,"Sat 8th February 2025, 02:00pm SAST",DHL Stadium,32,33,17,18,26.6,0.0,42.8,0,Clear,early_afternoon,True,True
+Edinburgh,Zebre,"Fri 14th February 2025, 09:35pm SAST",Hive Stadium,17,22,5,12,1.8,0.0,31.3,2,Partly cloudy,evening,False,True
+Ospreys,Leinster,"Fri 14th February 2025, 09:35pm SAST",Swansea.com Stadium,19,22,7,15,4.4,0.0,79.9,3,Overcast,evening,False,True
+Lions,Stormers,"Sat 15th February 2025, 02:30pm SAST",Ellis Park,30,23,24,6,19.7,0.1,26.3,51,Drizzle: light,early_afternoon,True,True
+Bulls,Sharks,"Sat 15th February 2025, 05:00pm SAST",Loftus Versfeld,19,29,7,10,22.1,0.1,39.6,51,Drizzle: light,late_afternoon,True,True
+Benetton,Ulster,"Sat 15th February 2025, 07:15pm SAST",Stadio Comunale di Monigo,34,19,17,19,7.1,0.0,20.2,0,Clear,evening,False,True
+Munster,Scarlets,"Sat 15th February 2025, 07:15pm SAST",Thomond Park,29,8,7,3,11.5,0.0,65.9,3,Overcast,late_afternoon,False,True
+Connacht,Cardiff,"Sat 15th February 2025, 09:35pm SAST",Dexcom Stadium,24,19,14,0,9.9,0.0,86.4,3,Overcast,evening,False,True
+Dragons RFC,Glasgow Warriors,"Sun 16th February 2025, 04:00pm SAST",Rodney Parade,20,45,20,24,4.0,0.2,52.6,51,Drizzle: light,early_afternoon,False,True
+Bulls,Lions,"Sat 22nd February 2025, 02:00pm SAST",Loftus Versfeld,31,19,17,14,27.1,0.1,7.9,51,Drizzle: light,early_afternoon,True,True
+Munster,Edinburgh,"Fri 28th February 2025, 09:35pm SAST",Virgin Media Park,28,34,7,29,7.0,0.0,31.0,3,Overcast,evening,False,False
+Zebre,Dragons RFC,"Fri 28th February 2025, 09:35pm SAST",Stadio Sergio Lanfranchi,31,21,14,21,8.4,0.0,38.9,3,Overcast,evening,False,True
+Lions,Sharks,"Sat 1st March 2025, 02:30pm SAST",Ellis Park,38,14,19,0,22.1,0.0,29.5,3,Overcast,early_afternoon,True,True
+Leinster,Cardiff,"Sat 1st March 2025, 05:00pm SAST",Aviva Stadium,42,24,14,12,10.7,0.0,40.3,3,Overcast,late_afternoon,False,True
+Bulls,Stormers,"Sat 1st March 2025, 06:15pm SAST",Loftus Versfeld,16,19,9,12,23.1,0.0,19.4,0,Clear,evening,True,True
+Ulster,Scarlets,"Sat 1st March 2025, 07:15pm SAST",Affidea Stadium,30,28,13,15,8.9,0.0,24.5,3,Overcast,late_afternoon,False,True
+Connacht,Benetton,"Sat 1st March 2025, 09:35pm SAST",Dexcom Stadium,38,30,19,27,8.3,0.0,8.6,3,Overcast,evening,False,True
+Glasgow Warriors,Ospreys,"Sat 1st March 2025, 09:35pm SAST",Scotstoun Stadium,31,32,19,22,6.3,0.0,31.7,0,Clear,evening,False,True
+Sharks,Lions,"Sat 8th March 2025, 02:00pm SAST",Hollywoodbets Kings Park,25,22,12,7,29.2,0.0,62.6,0,Clear,early_afternoon,True,True
+Cardiff,Lions,"Fri 21st March 2025, 09:35pm SAST",Cardiff Arms Park,20,17,10,7,12.3,2.1,64.4,61,Rain: slight,evening,False,True
+Glasgow Warriors,Munster,"Fri 21st March 2025, 09:35pm SAST",Scotstoun Stadium,28,25,14,15,11.6,0.1,61.9,51,Drizzle: light,evening,False,True
+Sharks,Zebre,"Sat 22nd March 2025, 02:45pm SAST",Hollywoodbets Kings Park,35,34,28,17,27.5,0.0,42.5,1,Mainly clear,early_afternoon,True,True
+Scarlets,Stormers,"Sat 22nd March 2025, 05:00pm SAST",Parc y Scarlets,17,29,7,15,16.6,0.0,58.0,2,Partly cloudy,late_afternoon,False,True
+Benetton,Edinburgh,"Sat 22nd March 2025, 05:00pm SAST",Stadio Comunale di Monigo,21,18,11,13,12.1,0.4,31.3,51,Drizzle: light,late_afternoon,False,True
+Bulls,Leinster,"Sat 22nd March 2025, 05:00pm SAST",Loftus Versfeld,21,20,6,10,25.8,0.2,10.4,51,Drizzle: light,late_afternoon,True,True
+Dragons RFC,Ulster,"Sat 22nd March 2025, 07:15pm SAST",Rodney Parade,30,34,24,14,14.9,0.4,40.7,51,Drizzle: light,late_afternoon,False,True
+Ospreys,Connacht,"Sat 22nd March 2025, 07:15pm SAST",Swansea.com Stadium,43,40,31,14,15.3,0.1,46.1,51,Drizzle: light,late_afternoon,False,True
+Ulster,Stormers,"Fri 28th March 2025, 09:35pm SAST",Affidea Stadium,38,34,17,17,7.9,0.0,71.6,0,Clear,evening,False,True
+Edinburgh,Dragons RFC,"Fri 28th March 2025, 09:35pm SAST",Hive Stadium,38,5,26,0,7.2,0.0,90.7,0,Clear,evening,False,True
+Bulls,Zebre,"Sat 29th March 2025, 02:45pm SAST",Loftus Versfeld,63,24,28,10,24.1,0.1,30.2,51,Drizzle: light,early_afternoon,True,True
+Connacht,Munster,"Sat 29th March 2025, 04:30pm SAST",Hastings Insurance MacHale Park,24,30,5,18,11.0,0.6,104.4,53,Drizzle: moderate,early_afternoon,False,False
+Scarlets,Ospreys,"Sat 29th March 2025, 05:00pm SAST",Parc y Scarlets,38,22,17,17,11.0,0.1,108.4,51,Drizzle: light,late_afternoon,False,True
+Sharks,Leinster,"Sat 29th March 2025, 07:15pm SAST",Hollywoodbets Kings Park,7,10,0,5,25.3,0.0,23.4,0,Clear,evening,True,True
+Glasgow Warriors,Lions,"Sat 29th March 2025, 09:35pm SAST",Scotstoun Stadium,42,0,42,0,9.8,0.4,129.2,51,Drizzle: light,evening,False,True
+Benetton,Cardiff,"Sat 29th March 2025, 09:35pm SAST",Stadio Comunale di Monigo,20,19,17,14,11.7,0.1,10.1,51,Drizzle: light,evening,False,True
+Edinburgh,Sharks,"Fri 18th April 2025, 08:35pm SAST",Hive Stadium,17,18,10,6,8.3,0.3,69.1,51,Drizzle: light,evening,False,True
+Lions,Benetton,"Sat 19th April 2025, 01:45pm SAST",Ellis Park,31,42,17,32,17.1,0.1,24.1,51,Drizzle: light,early_afternoon,True,True
+Ospreys,Cardiff,"Sat 19th April 2025, 04:00pm SAST",Principality Stadium,19,36,7,22,15.5,0.0,58.3,3,Overcast,early_afternoon,False,False
+Stormers,Connacht,"Sat 19th April 2025, 04:00pm SAST",DHL Stadium,34,29,26,24,25.0,0.0,43.9,0,Clear,late_afternoon,True,True
+Munster,Bulls,"Sat 19th April 2025, 06:15pm SAST",Thomond Park,13,16,10,10,12.1,0.2,23.4,51,Drizzle: light,late_afternoon,False,True
+Dragons RFC,Scarlets,"Sat 19th April 2025, 06:30pm SAST",Principality Stadium,23,31,8,7,16.3,0.0,58.0,2,Partly cloudy,late_afternoon,False,False
+Leinster,Ulster,"Sat 19th April 2025, 08:35pm SAST",Aviva Stadium,41,17,19,10,11.0,0.0,33.5,3,Overcast,evening,False,True
+Zebre,Glasgow Warriors,"Sat 19th April 2025, 08:35pm SAST",Stadio Sergio Lanfranchi,6,14,6,0,15.7,0.0,23.0,2,Partly cloudy,evening,False,True
+Zebre,Edinburgh,"Fri 25th April 2025, 08:35pm SAST",Stadio Sergio Lanfranchi,25,25,12,6,15.4,0.0,38.5,0,Clear,evening,False,True
+Cardiff,Munster,"Fri 25th April 2025, 08:35pm SAST",Cardiff Arms Park,26,21,12,14,13.1,0.0,32.0,3,Overcast,evening,False,True
+Glasgow Warriors,Bulls,"Fri 25th April 2025, 08:35pm SAST",Scotstoun Stadium,19,26,7,9,13.1,0.0,32.8,3,Overcast,evening,False,True
+Ospreys,Dragons RFC,"Sat 26th April 2025, 04:00pm SAST",Swansea.com Stadium,57,24,14,10,14.3,0.0,25.6,2,Partly cloudy,early_afternoon,False,True
+Lions,Connacht,"Sat 26th April 2025, 04:00pm SAST",Ellis Park,26,7,11,0,17.9,0.0,20.2,3,Overcast,late_afternoon,True,True
+Stormers,Benetton,"Sat 26th April 2025, 06:15pm SAST",DHL Stadium,56,5,30,0,25.6,0.0,23.8,1,Mainly clear,evening,True,True
+Scarlets,Leinster,"Sat 26th April 2025, 06:15pm SAST",Parc y Scarlets,35,22,22,15,14.6,0.0,31.7,3,Overcast,late_afternoon,False,True
+Ulster,Sharks,"Sat 26th April 2025, 08:35pm SAST",Affidea Stadium,19,22,19,5,12.5,0.0,56.2,1,Mainly clear,evening,False,True
+Sharks,Ospreys,"Fri 9th May 2025, 07:00pm SAST",Hollywoodbets Kings Park,29,10,14,3,22.8,0.0,24.1,0,Clear,evening,True,True
+Munster,Ulster,"Fri 9th May 2025, 08:35pm SAST",Thomond Park,38,20,24,20,17.8,0.0,33.1,0,Clear,evening,False,True
+Bulls,Cardiff,"Sat 10th May 2025, 04:00pm SAST",Loftus Versfeld,45,21,31,0,21.3,0.0,41.0,0,Clear,late_afternoon,True,True
+Stormers,Dragons RFC,"Sat 10th May 2025, 06:15pm SAST",DHL Stadium,48,12,14,0,13.6,0.8,32.8,53,Drizzle: moderate,evening,True,True
+Benetton,Glasgow Warriors,"Sat 10th May 2025, 06:15pm SAST",Stadio Comunale di Monigo,33,7,19,0,20.4,0.0,12.2,2,Partly cloudy,evening,False,True
+Leinster,Zebre,"Sat 10th May 2025, 06:15pm SAST",Aviva Stadium,76,5,38,0,18.9,0.0,40.3,0,Clear,late_afternoon,False,True
+Connacht,Edinburgh,"Sat 10th May 2025, 08:35pm SAST",Dexcom Stadium,21,31,0,14,15.0,0.0,56.5,0,Clear,evening,False,True
+Lions,Scarlets,"Sun 11th May 2025, 03:00pm SAST",Ellis Park,19,32,7,17,18.3,0.0,32.4,0,Clear,late_afternoon,True,True
+Stormers,Cardiff,"Fri 16th May 2025, 07:00pm SAST",DHL Stadium,34,24,19,12,19.7,0.0,11.2,3,Overcast,evening,True,True
+Edinburgh,Ulster,"Fri 16th May 2025, 08:35pm SAST",Hive Stadium,47,17,19,12,14.1,0.0,47.9,0,Clear,evening,False,True
+Munster,Benetton,"Fri 16th May 2025, 09:00pm SAST",Virgin Media Park,30,21,10,14,15.3,0.0,34.9,0,Clear,evening,False,False
+Bulls,Dragons RFC,"Sat 17th May 2025, 03:00pm SAST",Loftus Versfeld,55,15,26,0,21.3,0.0,21.2,0,Clear,late_afternoon,True,True
+Lions,Ospreys,"Sat 17th May 2025, 05:15pm SAST",Ellis Park,29,28,12,7,18.7,0.0,25.2,1,Mainly clear,late_afternoon,True,True
+Zebre,Connacht,"Sat 17th May 2025, 06:00pm SAST",Stadio Sergio Lanfranchi,12,22,7,12,19.6,0.0,45.7,2,Partly cloudy,evening,False,True
+Sharks,Scarlets,"Sat 17th May 2025, 07:30pm SAST",Hollywoodbets Kings Park,12,3,3,3,21.7,0.0,11.5,3,Overcast,evening,True,True
+Leinster,Glasgow Warriors,"Sat 17th May 2025, 08:35pm SAST",Aviva Stadium,13,5,7,0,16.3,0.0,43.6,0,Clear,evening,False,True
+Glasgow Warriors,Stormers,"Fri 30th May 2025, 08:35pm SAST",Scotstoun Stadium,36,18,19,13,16.5,0.0,38.9,3,Overcast,evening,False,True
+Bulls,Edinburgh,"Sat 31st May 2025, 01:30pm SAST",Loftus Versfeld,42,33,18,21,19.1,0.0,27.7,0,Clear,early_afternoon,True,True
+Leinster,Scarlets,"Sat 31st May 2025, 04:00pm SAST",Aviva Stadium,33,21,15,14,17.7,0.5,86.8,53,Drizzle: moderate,early_afternoon,False,True
+Sharks,Munster,"Sat 31st May 2025, 06:30pm SAST",Hollywoodbets Kings Park,24,24,0,7,18.4,0.0,4.7,0,Clear,evening,True,True
+Leinster,Glasgow Warriors,"Sat 7th June 2025, 03:45pm SAST",Aviva Stadium,37,19,25,5,14.4,0.1,56.9,51,Drizzle: light,early_afternoon,False,True
+Bulls,Sharks,"Sat 7th June 2025, 06:15pm SAST",Loftus Versfeld,25,13,15,3,15.7,0.0,17.3,0,Clear,evening,True,True
+Leinster,Bulls,"Sat 14th June 2025, 06:00pm SAST",Croke Park,32,7,19,0,16.0,5.1,23.4,63,Rain: moderate,late_afternoon,False,False
