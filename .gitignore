@@ -5,8 +5,3 @@ __pycache__/
 data/raw/
 cache/
 .DS_Store
-
-# notebooks & checkpoints
-notebooks/
-*.ipynb
-.ipynb_checkpoints/
