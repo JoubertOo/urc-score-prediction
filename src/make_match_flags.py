@@ -4,8 +4,10 @@ import pandas as pd
 from pathlib import Path
 from dateutil import parser as dtparser, tz
 
-IN_CSV  = "data/processed/matches_with_weather.csv"
-OUT_CSV = "data/processed/matches_with_weather_features.csv"
+IN_CSV  = "data/processed/matches_with_weather25.csv" #change based on season
+OUT_CSV = "data/processed/matches_with_weather_features25.csv" #change based on season
+#IN_CSV  = "data/processed/matches_with_weather24.csv"
+#OUT_CSV = "data/processed/matches_with_weather_features24.csv"
 
 # Map RugbyPass timezone abbreviations to canonical tz names
 TZ_ABBR = {

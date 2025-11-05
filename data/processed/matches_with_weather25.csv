@@ -1,0 +1,145 @@
+Home_team,Away_team,Date_time,Venue,Fulltime_score_home,Fulltime_score_away,Halftime_score_home,Halftime_score_away,wx_temp_c,wx_precip_mm,wx_wind_kph,wx_weathercode,wx_summary
+Stormers,Leinster,"Fri 26th September 2025, 07:00pm SAST",DHL Stadium,35,0,6,0,20.6,0,41.4,0,Clear
+Ulster,Dragons RFC,"Fri 26th September 2025, 09:05pm SAST",Affidea Stadium,42,21,28,14,12,0,63,3,Overcast
+Glasgow Warriors,Sharks,"Fri 26th September 2025, 09:05pm SAST",Scotstoun Stadium,35,19,14,12,11.4,0,38.5,3,Overcast
+Bulls,Ospreys,"Sat 27th September 2025, 02:00pm SAST",Loftus Versfeld,53,40,19,26,22.2,1,26.6,55,Drizzle: dense
+Zebre,Edinburgh,"Sat 27th September 2025, 04:05pm SAST",Stadio Sergio Lanfranchi,31,28,21,14,15.7,1.9,14,61,Rain: slight
+Scarlets,Munster,"Sat 27th September 2025, 06:30pm SAST",Parc y Scarlets,21,34,0,13,14.5,0.6,65.9,53,Drizzle: moderate
+Cardiff,Lions,"Sat 27th September 2025, 08:45pm SAST",Cardiff Arms Park,33,20,14,13,14.4,0,51.5,3,Overcast
+Connacht,Benetton,"Sat 27th September 2025, 08:45pm SAST",Dexcom Stadium,26,15,12,3,10.8,0,37.1,3,Overcast
+Edinburgh,Ulster,"Fri 3rd October 2025, 02:00am SAST",Hive Stadium,,,,,15.1,0.2,90.4,51,Drizzle: light
+Stormers,Ospreys,"Fri 3rd October 2025, 07:00pm SAST",DHL Stadium,26,10,8,10,21.7,0,49.7,0,Clear
+Dragons RFC,Sharks,"Fri 3rd October 2025, 09:05pm SAST",Rodney Parade,17,17,14,17,17.5,1.7,139.7,61,Rain: slight
+Connacht,Scarlets,"Sat 4th October 2025, 02:00am SAST",Dexcom Stadium,,,,,9.4,0.5,147.6,53,Drizzle: moderate
+Benetton,Glasgow Warriors,"Sat 4th October 2025, 06:30pm SAST",Stadio Comunale di Monigo,16,14,3,14,14.2,0,31,3,Overcast
+Bulls,Leinster,"Sat 4th October 2025, 06:30pm SAST",Loftus Versfeld,39,31,22,10,20,0,25.2,2,Partly cloudy
+Munster,Cardiff,"Sat 4th October 2025, 08:45pm SAST",Thomond Park,23,20,5,5,11.9,0,98.3,1,Mainly clear
+Zebre,Lions,"Sun 5th October 2025, 04:00pm SAST",Stadio Sergio Lanfranchi,22,20,12,3,14.9,0,62.6,0,Clear
+Munster,Edinburgh,"Fri 10th October 2025, 08:45pm SAST",Virgin Media Park,20,19,10,12,11,0,11.9,3,Overcast
+Scarlets,Stormers,"Fri 10th October 2025, 08:45pm SAST",Parc y Scarlets,0,34,0,17,13.3,0,28.8,3,Overcast
+Benetton,Lions,"Sat 11th October 2025, 04:00pm SAST",Stadio Comunale di Monigo,41,15,24,10,20.6,0,22,3,Overcast
+Ospreys,Zebre,"Sat 11th October 2025, 04:00pm SAST",Brewery Field,24,0,14,0,14.5,0,35.3,3,Overcast
+Glasgow Warriors,Dragons RFC,"Sat 11th October 2025, 06:30pm SAST",Scotstoun Stadium,49,0,14,0,14.1,0,27.7,1,Mainly clear
+Leinster,Sharks,"Sat 11th October 2025, 06:30pm SAST",Aviva Stadium,31,5,21,5,10.7,0,11.2,3,Overcast
+Ulster,Bulls,"Sat 11th October 2025, 08:45pm SAST",Affidea Stadium,28,7,7,7,9,0,2.5,3,Overcast
+Cardiff,Connacht,"Sat 11th October 2025, 08:45pm SAST",Cardiff Arms Park,14,8,7,3,11.4,0,27.7,2,Partly cloudy
+Edinburgh,Benetton,"Fri 17th October 2025, 08:45pm SAST",Hive Stadium,43,0,21,0,9.2,0,26.3,2,Partly cloudy
+Connacht,Bulls,"Fri 17th October 2025, 08:45pm SAST",Dexcom Stadium,27,28,7,12,12.3,0,54.7,3,Overcast
+Dragons RFC,Cardiff,"Fri 17th October 2025, 08:45pm SAST",Rodney Parade,17,24,7,17,13.5,0,45,3,Overcast
+Lions,Scarlets,"Sat 18th October 2025, 01:45pm SAST",Ellis Park,29,18,5,3,16.7,0.1,64.8,51,Drizzle: light
+Sharks,Ulster,"Sat 18th October 2025, 04:00pm SAST",Hollywoodbets Kings Park,26,34,5,20,23.6,0,108.7,3,Overcast
+Leinster,Munster,"Sat 18th October 2025, 06:15pm SAST",Croke Park,14,31,7,21,13.5,0,101.5,3,Overcast
+Zebre,Stormers,"Sat 18th October 2025, 08:45pm SAST",Stadio Sergio Lanfranchi,13,31,7,12,13.3,0,23.4,0,Clear
+Ospreys,Glasgow Warriors,"Sat 18th October 2025, 08:45pm SAST",Brewery Field,17,42,10,21,12.3,0.2,104.8,51,Drizzle: light
+Glasgow Warriors,Bulls,"Fri 24th October 2025, 08:45pm SAST",Scotstoun Stadium,21,12,7,5,9.1,0,62.6,3,Overcast
+Lions,Ulster,"Sat 25th October 2025, 01:45pm SAST",Ellis Park,49,31,17,19,28.3,0,46.8,0,Clear
+Sharks,Scarlets,"Sat 25th October 2025, 04:00pm SAST",Hollywoodbets Kings Park,29,19,19,14,27.3,0,63,0,Clear
+Leinster,Zebre,"Sat 25th October 2025, 06:30pm SAST",Aviva Stadium,50,26,26,21,9,0,77.8,1,Mainly clear
+Benetton,Stormers,"Sat 25th October 2025, 06:30pm SAST",Stadio Comunale di Monigo,16,31,16,8,12.8,0,14.4,2,Partly cloudy
+Dragons RFC,Ospreys,"Sat 25th October 2025, 06:30pm SAST",Rodney Parade,19,19,7,12,8.8,0,70.2,1,Mainly clear
+Munster,Connacht,"Sat 25th October 2025, 08:45pm SAST",Thomond Park,17,15,12,15,8.6,0,70.6,0,Clear
+Cardiff,Edinburgh,"Sat 25th October 2025, 08:45pm SAST",Cardiff Arms Park,20,19,12,19,7.8,0,52.6,2,Partly cloudy
+Ulster,Benetton,"Fri 28th November 2025, 09:45pm SAST",Affidea Stadium,,,,,,,,,
+Dragons RFC,Leinster,"Fri 28th November 2025, 09:45pm SAST",Rodney Parade,,,,,,,,,
+Bulls,Lions,"Sat 29th November 2025, 02:00pm SAST",Loftus Versfeld,,,,,,,,,
+Zebre,Cardiff,"Sat 29th November 2025, 03:00pm SAST",Stadio Sergio Lanfranchi,,,,,,,,,
+Munster,Stormers,"Sat 29th November 2025, 07:30pm SAST",Thomond Park,,,,,,,,,
+Edinburgh,Ospreys,"Sat 29th November 2025, 07:30pm SAST",Hive Stadium,,,,,,,,,
+Connacht,Sharks,"Sat 29th November 2025, 09:45pm SAST",Dexcom Stadium,,,,,,,,,
+Scarlets,Glasgow Warriors,"Sat 29th November 2025, 09:45pm SAST",Parc y Scarlets,,,,,,,,,
+Cardiff,Scarlets,"Fri 19th December 2025, 09:45pm SAST",Cardiff Arms Park,,,,,,,,,
+Leinster,Ulster,"Fri 19th December 2025, 09:45pm SAST",Aviva Stadium,,,,,,,,,
+Stormers,Lions,"Sat 20th December 2025, 03:30pm SAST",DHL Stadium,,,,,,,,,
+Benetton,Zebre,"Sat 20th December 2025, 04:00pm SAST",Stadio Comunale di Monigo,,,,,,,,,
+Glasgow Warriors,Edinburgh,"Sat 20th December 2025, 05:00pm SAST",Hampden Park,,,,,,,,,
+Sharks,Bulls,"Sat 20th December 2025, 06:00pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Ospreys,Munster,"Sat 20th December 2025, 07:30pm SAST",Brewery Field,,,,,,,,,
+Dragons RFC,Connacht,"Sat 20th December 2025, 09:45pm SAST",Rodney Parade,,,,,,,,,
+Cardiff,Dragons RFC,"Fri 26th December 2025, 05:00pm SAST",Cardiff Arms Park,,,,,,,,,
+Scarlets,Ospreys,"Fri 26th December 2025, 07:30pm SAST",Parc y Scarlets,,,,,,,,,
+Zebre,Benetton,"Sat 27th December 2025, 04:30pm SAST",Stadio Sergio Lanfranchi,,,,,,,,,
+Edinburgh,Glasgow Warriors,"Sat 27th December 2025, 05:00pm SAST",Scottish Gas Murrayfield,,,,,,,,,
+Connacht,Ulster,"Sat 27th December 2025, 07:30pm SAST",Dexcom Stadium,,,,,,,,,
+Munster,Leinster,"Sat 27th December 2025, 09:45pm SAST",Thomond Park,,,,,,,,,
+Dragons RFC,Scarlets,"Thu 1st January 2026, 05:00pm SAST",Rodney Parade,,,,,,,,,
+Ospreys,Cardiff,"Thu 1st January 2026, 07:30pm SAST",Brewery Field,,,,,,,,,
+Ulster,Munster,"Fri 2nd January 2026, 09:45pm SAST",Affidea Stadium,,,,,,,,,
+Sharks,Lions,"Sat 3rd January 2026, 03:30pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Stormers,Bulls,"Sat 3rd January 2026, 06:00pm SAST",DHL Stadium,,,,,,,,,
+Benetton,Edinburgh,"Sat 3rd January 2026, 07:30pm SAST",Stadio Comunale di Monigo,,,,,,,,,
+Leinster,Connacht,"Sat 3rd January 2026, 07:30pm SAST",Aviva Stadium,,,,,,,,,
+Glasgow Warriors,Zebre,"Sat 3rd January 2026, 09:45pm SAST",Scotstoun Stadium,,,,,,,,,
+Ospreys,Lions,"Fri 23rd January 2026, 09:45pm SAST",Brewery Field,,,,,,,,,
+Edinburgh,Bulls,"Fri 23rd January 2026, 09:45pm SAST",Hive Stadium,,,,,,,,,
+Munster,Dragons RFC,"Fri 23rd January 2026, 09:45pm SAST",Virgin Media Park,,,,,,,,,
+Scarlets,Ulster,"Sat 24th January 2026, 05:00pm SAST",Parc y Scarlets,,,,,,,,,
+Connacht,Leinster,"Sat 24th January 2026, 07:30pm SAST",Dexcom Stadium,,,,,,,,,
+Stormers,Sharks,"Sat 24th January 2026, 07:30pm SAST",DHL Stadium,,,,,,,,,
+Zebre,Glasgow Warriors,"Sat 24th January 2026, 09:45pm SAST",Stadio Sergio Lanfranchi,,,,,,,,,
+Cardiff,Benetton,"Sat 24th January 2026, 09:45pm SAST",Cardiff Arms Park,,,,,,,,,
+Benetton,Scarlets,"Fri 30th January 2026, 09:45pm SAST",Stadio Comunale di Monigo,,,,,,,,,
+Glasgow Warriors,Munster,"Fri 30th January 2026, 09:45pm SAST",Scotstoun Stadium,,,,,,,,,
+Lions,Bulls,"Sat 31st January 2026, 02:30pm SAST",Ellis Park,,,,,,,,,
+Sharks,Stormers,"Sat 31st January 2026, 05:00pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Zebre,Connacht,"Sat 31st January 2026, 05:00pm SAST",Stadio Sergio Lanfranchi,,,,,,,,,
+Leinster,Edinburgh,"Sat 31st January 2026, 07:30pm SAST",Aviva Stadium,,,,,,,,,
+Ospreys,Dragons RFC,"Sat 31st January 2026, 09:45pm SAST",Brewery Field,,,,,,,,,
+Ulster,Cardiff,"Sat 31st January 2026, 09:45pm SAST",Affidea Stadium,,,,,,,,,
+Lions,Sharks,"Sat 21st February 2026, 02:00pm SAST",Ellis Park,,,,,,,,,
+Edinburgh,Scarlets,"Fri 27th February 2026, 09:45pm SAST",Hive Stadium,,,,,,,,,
+Cardiff,Leinster,"Fri 27th February 2026, 09:45pm SAST",Cardiff Arms Park,,,,,,,,,
+Lions,Stormers,"Sat 28th February 2026, 02:30pm SAST",Ellis Park,,,,,,,,,
+Bulls,Sharks,"Sat 28th February 2026, 05:00pm SAST",Loftus Versfeld,,,,,,,,,
+Connacht,Glasgow Warriors,"Sat 28th February 2026, 05:00pm SAST",Dexcom Stadium,,,,,,,,,
+Munster,Zebre,"Sat 28th February 2026, 07:30pm SAST",Thomond Park,,,,,,,,,
+Dragons RFC,Benetton,"Sat 28th February 2026, 07:30pm SAST",Rodney Parade,,,,,,,,,
+Ospreys,Ulster,"Sat 28th February 2026, 09:45pm SAST",Brewery Field,,,,,,,,,
+Bulls,Stormers,"Sat 14th March 2026, 02:00pm SAST",Loftus Versfeld,,,,,,,,,
+Bulls,Cardiff,"Fri 20th March 2026, 07:00pm SAST",Loftus Versfeld,,,,,,,,,
+Scarlets,Zebre,"Fri 20th March 2026, 09:45pm SAST",Parc y Scarlets,,,,,,,,,
+Ulster,Connacht,"Fri 20th March 2026, 09:45pm SAST",Affidea Stadium,,,,,,,,,
+Lions,Edinburgh,"Sat 21st March 2026, 02:45pm SAST",Ellis Park,,,,,,,,,
+Sharks,Munster,"Sat 21st March 2026, 05:00pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Benetton,Ospreys,"Sat 21st March 2026, 05:00pm SAST",Stadio Comunale di Monigo,,,,,,,,,
+Glasgow Warriors,Leinster,"Sat 21st March 2026, 07:30pm SAST",Scotstoun Stadium,,,,,,,,,
+Stormers,Dragons RFC,"Sat 21st March 2026, 07:30pm SAST",TBC,,,,,,,,,
+Sharks,Cardiff,"Fri 27th March 2026, 07:00pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Glasgow Warriors,Benetton,"Fri 27th March 2026, 09:45pm SAST",Scotstoun Stadium,,,,,,,,,
+Bulls,Munster,"Sat 28th March 2026, 02:00pm SAST",Loftus Versfeld,,,,,,,,,
+Connacht,Ospreys,"Sat 28th March 2026, 04:15pm SAST",Dexcom Stadium,,,,,,,,,
+Lions,Dragons RFC,"Sat 28th March 2026, 04:30pm SAST",Ellis Park,,,,,,,,,
+Stormers,Edinburgh,"Sat 28th March 2026, 07:00pm SAST",DHL Stadium,,,,,,,,,
+Leinster,Scarlets,"Sat 28th March 2026, 07:30pm SAST",TBC,,,,,,,,,
+Zebre,Ulster,"Sat 28th March 2026, 09:45pm SAST",Stadio Sergio Lanfranchi,,,,,,,,,
+Edinburgh,Zebre,"Fri 17th April 2026, 08:45pm SAST",Hive Stadium,,,,,,,,,
+Ulster,Leinster,"Fri 17th April 2026, 08:45pm SAST",Affidea Stadium,,,,,,,,,
+Dragons RFC,Bulls,"Fri 17th April 2026, 08:45pm SAST",Rodney Parade,,,,,,,,,
+Lions,Glasgow Warriors,"Sat 18th April 2026, 03:45pm SAST",Ellis Park,,,,,,,,,
+Stormers,Connacht,"Sat 18th April 2026, 06:15pm SAST",DHL Stadium,,,,,,,,,
+Scarlets,Cardiff,"Sat 18th April 2026, 06:30pm SAST",Parc y Scarlets,,,,,,,,,
+Benetton,Munster,"Sat 18th April 2026, 08:45pm SAST",Stadio Comunale di Monigo,,,,,,,,,
+Ospreys,Sharks,"Sat 18th April 2026, 08:45pm SAST",Brewery Field,,,,,,,,,
+Edinburgh,Sharks,"Fri 24th April 2026, 08:45pm SAST",Hive Stadium,,,,,,,,,
+Zebre,Dragons RFC,"Fri 24th April 2026, 08:45pm SAST",Stadio Sergio Lanfranchi,,,,,,,,,
+Cardiff,Ospreys,"Fri 24th April 2026, 08:45pm SAST",Cardiff Arms Park,,,,,,,,,
+Lions,Connacht,"Sat 25th April 2026, 04:00pm SAST",Ellis Park,,,,,,,,,
+Stormers,Glasgow Warriors,"Sat 25th April 2026, 06:30pm SAST",DHL Stadium,,,,,,,,,
+Munster,Ulster,"Sat 25th April 2026, 06:30pm SAST",Thomond Park,,,,,,,,,
+Scarlets,Bulls,"Sat 25th April 2026, 08:45pm SAST",Parc y Scarlets,,,,,,,,,
+Benetton,Leinster,"Sat 25th April 2026, 08:45pm SAST",Stadio Comunale di Monigo,,,,,,,,,
+Glasgow Warriors,Cardiff,"Fri 8th May 2026, 08:45pm SAST",Scotstoun Stadium,,,,,,,,,
+Ulster,Stormers,"Fri 8th May 2026, 08:45pm SAST",Affidea Stadium,,,,,,,,,
+Bulls,Zebre,"Sat 9th May 2026, 01:45pm SAST",Loftus Versfeld,,,,,,,,,
+Sharks,Benetton,"Sat 9th May 2026, 04:00pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Ospreys,Scarlets,"Sat 9th May 2026, 06:30pm SAST",Brewery Field,,,,,,,,,
+Leinster,Lions,"Sat 9th May 2026, 06:30pm SAST",TBC,,,,,,,,,
+Dragons RFC,Edinburgh,"Sat 9th May 2026, 08:45pm SAST",Rodney Parade,,,,,,,,,
+Connacht,Munster,"Sat 9th May 2026, 08:45pm SAST",Dexcom Stadium,,,,,,,,,
+Cardiff,Stormers,"Fri 15th May 2026, 08:45pm SAST",Cardiff Arms Park,,,,,,,,,
+Ulster,Glasgow Warriors,"Fri 15th May 2026, 08:45pm SAST",Affidea Stadium,,,,,,,,,
+Edinburgh,Connacht,"Fri 15th May 2026, 08:45pm SAST",Hive Stadium,,,,,,,,,
+Sharks,Zebre,"Sat 16th May 2026, 01:45pm SAST",Hollywoodbets Kings Park,,,,,,,,,
+Bulls,Benetton,"Sat 16th May 2026, 04:00pm SAST",Loftus Versfeld,,,,,,,,,
+Leinster,Ospreys,"Sat 16th May 2026, 06:15pm SAST",TBC,,,,,,,,,
+Scarlets,Dragons RFC,"Sat 16th May 2026, 06:15pm SAST",Parc y Scarlets,,,,,,,,,
+Munster,Lions,"Sat 16th May 2026, 08:45pm SAST",Thomond Park,,,,,,,,,

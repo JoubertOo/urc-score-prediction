@@ -11,8 +11,10 @@ import requests
 from dateutil import parser as dtparser, tz
 
 # ---------- config ----------
-IN_CSV  = "data/processed/matches_fixed_manually.csv"
-OUT_CSV = "data/processed/matches_with_weather.csv"
+IN_CSV  = "data/processed/matches25.csv" #change based on season
+OUT_CSV = "data/processed/matches_with_weather25.csv" #change based on season
+#IN_CSV  = "data/processed/matches_fixed_manually24.csv"
+#OUT_CSV = "data/processed/matches_with_weather24.csv"
 
 CACHE_DIR = Path("cache/weather"); CACHE_DIR.mkdir(parents=True, exist_ok=True)
 GEOCODE_CACHE = CACHE_DIR / "geocode_cache.json"
@@ -254,6 +256,7 @@ def wx_summary(code: Optional[int]) -> Optional[str]:
 # ---------- main ----------
 def main():
     df = pd.read_csv(IN_CSV)
+    NOW_UTC = pd.Timestamp.now(tz="UTC")
     if not {"Date_time","Venue"}.issubset(df.columns):
         raise SystemExit("CSV must contain Date_time and Venue columns")
 
@@ -279,19 +282,22 @@ def main():
 
         if not venue or not kickoff_local:
             continue
-
-        # 2) Geocode venue (with overrides & cache)
+        # 2) Skip future dates
+        kickoff_utc = kickoff_local.tz_convert("UTC")
+        if kickoff_utc > NOW_UTC:
+            continue
+        # 3) Geocode venue (with overrides & cache)
         g = geocode_venue(venue, geocache)
         if not g:
             continue
         lat, lon, _pretty = g
 
-        # 3) Fetch weather for the corresponding local hour at venue
+        # 4) Fetch weather for the corresponding local hour at venue
         w = fetch_hour_weather(lat, lon, kickoff_local)
         if not w:
             continue
 
-        # 4) Populate columns
+        # 5) Populate columns
         df.at[i, "wx_temp_c"] = w.get("temp_c")
         df.at[i, "wx_precip_mm"] = w.get("precip_mm")
         df.at[i, "wx_wind_kph"] = w.get("wind_kph")

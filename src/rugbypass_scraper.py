@@ -32,11 +32,12 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # ---------------------- config ----------------------
+SEASON = 25 #user input
 
 CACHE_NAME = "cache/http"
 CACHE_TTL_SECONDS = 24 * 3600
-DEFAULT_URLS = "data/urls_matches.txt"
-DEFAULT_OUT = "data/processed/matches.csv"
+DEFAULT_URLS = f"data/urls_matches{SEASON}.txt" 
+DEFAULT_OUT = f"data/processed/matches{SEASON}.csv"
 DEFAULT_DELAY = (5.0, 9.0)
 
 HEADERS = {
