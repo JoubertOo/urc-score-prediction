@@ -24,7 +24,7 @@ def parse_sa(s: str):
     return dt
 
 # --- Load data ---
-path = r"C:\Betting\URC\data\processed\matches_with_weather_features.csv"
+path = r"C:\Betting\URC\data\processed\matches_with_weather_features24.csv"
 df = pd.read_csv(path, converters={"Date_time": parse_sa})
 
 # Parse datetime and sort for time-aware CV
