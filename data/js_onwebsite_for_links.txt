@@ -1,0 +1,34 @@
+//paste this code into Devtools and Enter
+
+// URC team slugs
+const urcSlugs = [
+  'leinster','munster','ulster','connacht',
+  'stormers','bulls','sharks','lions',
+  'cardiff','cardiff-blues','scarlets','ospreys','dragons','gwent-dragons',
+  'edinburgh','glasgow',
+  'benetton','zebre'
+];
+
+const isURC = url =>
+  urcSlugs.some(s => url.includes(`/${s}-vs-`) || url.includes(`-vs-${s}/`));
+
+// 1) Collect in DOM order
+const allLinks = [...document.querySelectorAll('a[href*="/live/"][href*="?g="]')]
+  .map(a => a.href.trim());
+
+// 2) Filter to URC only, keep DOM order
+const urcLinksInPageOrder = allLinks.filter(isURC);
+
+// 3) De-dupe while preserving order
+const links = Array.from(new Set(urcLinksInPageOrder)); // no .sort()!
+
+// If the site shows oldest at top and you want newest→oldest instead, uncomment:
+// links.reverse();
+
+console.log(`URC links (page order): ${links.length}`, links.slice(0,10));
+
+// 4) Download TXT (one URL per line)
+const blob = new Blob([links.join('\n')], { type: 'text/plain' });
+const url = URL.createObjectURL(blob);
+const a = Object.assign(document.createElement('a'), { href: url, download: 'urls_matches25.txt' });
+document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
