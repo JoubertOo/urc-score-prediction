@@ -14,6 +14,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.metrics import mean_absolute_error
 
+from pathlib import Path
 # --- function to convert datetime ---
 def parse_sa(s: str):
     if pd.isna(s):
@@ -24,8 +25,9 @@ def parse_sa(s: str):
     return dt
 
 # --- Load data ---
-path = r"C:\Betting\URC\data\processed\matches_with_weather_features24.csv"
-df = pd.read_csv(path, converters={"Date_time": parse_sa})
+REPO_ROOT = Path.cwd()  
+DATA = REPO_ROOT / "data" / "processed" / "matches_with_weather_features24.csv"
+df = pd.read_csv(DATA)
 
 # Parse datetime and sort for time-aware CV
 df["Date_time"] = pd.to_datetime(df["Date_time"])
