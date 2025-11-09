@@ -19,7 +19,7 @@ def parse_sa(s: str):
 
 # ---------- paths ----------
 IN_PATH  = "data/processed/matches_with_weather_features25.csv"
-OUT_PATH = "data/processed/25preds.csv"
+OUT_PATH = "models/predict/25preds.csv"
 
 # ---------- load ----------
 df = pd.read_csv(IN_PATH, converters={"Date_time": parse_sa})

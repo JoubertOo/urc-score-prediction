@@ -11,10 +11,10 @@ import requests
 from dateutil import parser as dtparser, tz
 
 # ---------- config ----------
-IN_CSV  = "data/processed/matches25.csv" #change based on season
-OUT_CSV = "data/processed/matches_with_weather25.csv" #change based on season
-#IN_CSV  = "data/processed/matches_fixed_manually24.csv"
-#OUT_CSV = "data/processed/matches_with_weather24.csv"
+IN_CSV  = "data/interim/matches25.csv" #change based on season
+OUT_CSV = "data/interim/matches_with_weather25.csv" #change based on season
+#IN_CSV  = "data/interim/matches_fixed_manually24.csv"
+#OUT_CSV = "data/interim/matches_with_weather24.csv"
 
 CACHE_DIR = Path("cache/weather"); CACHE_DIR.mkdir(parents=True, exist_ok=True)
 GEOCODE_CACHE = CACHE_DIR / "geocode_cache.json"

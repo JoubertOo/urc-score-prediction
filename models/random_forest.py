@@ -30,7 +30,7 @@ DATA = REPO_ROOT / "data" / "processed" / "matches_with_weather_features24.csv"
 df = pd.read_csv(DATA)
 
 # Parse datetime and sort for time-aware CV
-df["Date_time"] = pd.to_datetime(df["Date_time"])
+df["Date_time"] = df["Date_time"].apply(parse_sa)
 df = df.sort_values("Date_time").reset_index(drop=True)
 
 # --- Select features and targets ---
