@@ -1,4 +1,4 @@
-URC rugby score prediction
+URC score prediction
 
 Features
 
