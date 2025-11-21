@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
+import matplotlib.pyplot as plt
 
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
@@ -69,7 +70,7 @@ prep = ColumnTransformer([
     ("num", SimpleImputer(strategy="median"), num),
 ])
 
-ef_ht_params = dict(n_estimators=600, criterion="absolute_error", min_samples_leaf=4, n_jobs=-1,
+ef_ht_params = dict(n_estimators=600, criterion="absolute_error", min_samples_leaf=2, n_jobs=-1,
                  max_depth=12, max_features="sqrt", random_state=42)
 
 ef_ft_params = dict(n_estimators=1000, criterion="squared_error", min_samples_leaf=2, n_jobs=-1,
@@ -108,3 +109,21 @@ out_df = pd.concat([preds_df, df[original_cols]], axis=1)
 
 out_df.to_csv(OUT_PATH, index=False)
 print(f"Saved predictions -> {OUT_PATH}")
+
+et_ft = pipe_ft.named_steps["et"]          # ExtraTreesRegressor inside the pipeline
+prep_ft = pipe_ft.named_steps["prep"]      # ColumnTransformer inside the pipeline
+
+# from sklearn.metrics import r2_score
+
+# y_true_ht = Y_ht
+# y_pred_ht = pipe_ht.predict(X.loc[use_mask])
+
+# print("HT R² home :", r2_score(y_true_ht[:, 0], y_pred_ht[:, 0]))
+# print("HT R² away :", r2_score(y_true_ht[:, 1], y_pred_ht[:, 1]))
+
+# y_true_ft = Y_ft
+# y_pred_ft = pipe_ft.predict(X.loc[use_mask])
+
+# print("FT R² home :", r2_score(y_true_ft[:, 0], y_pred_ft[:, 0]))
+# print("FT R² away :", r2_score(y_true_ft[:, 1], y_pred_ft[:, 1]))
+
