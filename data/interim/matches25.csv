@@ -1,44 +1,44 @@
 Home_team,Away_team,Date_time,Venue,Fulltime_score_home,Fulltime_score_away,Halftime_score_home,Halftime_score_away
-Stormers,Leinster,"Fri 26th September 2025, 07:00pm SAST",DHL Stadium,35.0,0.0,6.0,0.0
-Ulster,Dragons RFC,"Fri 26th September 2025, 09:05pm SAST",Affidea Stadium,42.0,21.0,28.0,14.0
-Glasgow Warriors,Sharks,"Fri 26th September 2025, 09:05pm SAST",Scotstoun Stadium,35.0,19.0,14.0,12.0
-Bulls,Ospreys,"Sat 27th September 2025, 02:00pm SAST",Loftus Versfeld,53.0,40.0,19.0,26.0
-Zebre,Edinburgh,"Sat 27th September 2025, 04:05pm SAST",Stadio Sergio Lanfranchi,31.0,28.0,21.0,14.0
-Scarlets,Munster,"Sat 27th September 2025, 06:30pm SAST",Parc y Scarlets,21.0,34.0,0.0,13.0
-Cardiff,Lions,"Sat 27th September 2025, 08:45pm SAST",Cardiff Arms Park,33.0,20.0,14.0,13.0
-Connacht,Benetton,"Sat 27th September 2025, 08:45pm SAST",Dexcom Stadium,26.0,15.0,12.0,3.0
-Edinburgh,Ulster,"Fri 3rd October 2025, 02:00am SAST",Hive Stadium,,,,
-Stormers,Ospreys,"Fri 3rd October 2025, 07:00pm SAST",DHL Stadium,26.0,10.0,8.0,10.0
-Dragons RFC,Sharks,"Fri 3rd October 2025, 09:05pm SAST",Rodney Parade,17.0,17.0,14.0,17.0
-Connacht,Scarlets,"Sat 4th October 2025, 02:00am SAST",Dexcom Stadium,,,,
-Benetton,Glasgow Warriors,"Sat 4th October 2025, 06:30pm SAST",Stadio Comunale di Monigo,16.0,14.0,3.0,14.0
-Bulls,Leinster,"Sat 4th October 2025, 06:30pm SAST",Loftus Versfeld,39.0,31.0,22.0,10.0
-Munster,Cardiff,"Sat 4th October 2025, 08:45pm SAST",Thomond Park,23.0,20.0,5.0,5.0
-Zebre,Lions,"Sun 5th October 2025, 04:00pm SAST",Stadio Sergio Lanfranchi,22.0,20.0,12.0,3.0
-Munster,Edinburgh,"Fri 10th October 2025, 08:45pm SAST",Virgin Media Park,20.0,19.0,10.0,12.0
-Scarlets,Stormers,"Fri 10th October 2025, 08:45pm SAST",Parc y Scarlets,0.0,34.0,0.0,17.0
-Benetton,Lions,"Sat 11th October 2025, 04:00pm SAST",Stadio Comunale di Monigo,41.0,15.0,24.0,10.0
-Ospreys,Zebre,"Sat 11th October 2025, 04:00pm SAST",Brewery Field,24.0,0.0,14.0,0.0
-Glasgow Warriors,Dragons RFC,"Sat 11th October 2025, 06:30pm SAST",Scotstoun Stadium,49.0,0.0,14.0,0.0
-Leinster,Sharks,"Sat 11th October 2025, 06:30pm SAST",Aviva Stadium,31.0,5.0,21.0,5.0
-Ulster,Bulls,"Sat 11th October 2025, 08:45pm SAST",Affidea Stadium,28.0,7.0,7.0,7.0
-Cardiff,Connacht,"Sat 11th October 2025, 08:45pm SAST",Cardiff Arms Park,14.0,8.0,7.0,3.0
-Edinburgh,Benetton,"Fri 17th October 2025, 08:45pm SAST",Hive Stadium,43.0,0.0,21.0,0.0
-Connacht,Bulls,"Fri 17th October 2025, 08:45pm SAST",Dexcom Stadium,27.0,28.0,7.0,12.0
-Dragons RFC,Cardiff,"Fri 17th October 2025, 08:45pm SAST",Rodney Parade,17.0,24.0,7.0,17.0
-Lions,Scarlets,"Sat 18th October 2025, 01:45pm SAST",Ellis Park,29.0,18.0,5.0,3.0
-Sharks,Ulster,"Sat 18th October 2025, 04:00pm SAST",Hollywoodbets Kings Park,26.0,34.0,5.0,20.0
-Leinster,Munster,"Sat 18th October 2025, 06:15pm SAST",Croke Park,14.0,31.0,7.0,21.0
-Zebre,Stormers,"Sat 18th October 2025, 08:45pm SAST",Stadio Sergio Lanfranchi,13.0,31.0,7.0,12.0
-Ospreys,Glasgow Warriors,"Sat 18th October 2025, 08:45pm SAST",Brewery Field,17.0,42.0,10.0,21.0
-Glasgow Warriors,Bulls,"Fri 24th October 2025, 08:45pm SAST",Scotstoun Stadium,21.0,12.0,7.0,5.0
-Lions,Ulster,"Sat 25th October 2025, 01:45pm SAST",Ellis Park,49.0,31.0,17.0,19.0
-Sharks,Scarlets,"Sat 25th October 2025, 04:00pm SAST",Hollywoodbets Kings Park,29.0,19.0,19.0,14.0
-Leinster,Zebre,"Sat 25th October 2025, 06:30pm SAST",Aviva Stadium,50.0,26.0,26.0,21.0
-Benetton,Stormers,"Sat 25th October 2025, 06:30pm SAST",Stadio Comunale di Monigo,16.0,31.0,16.0,8.0
-Dragons RFC,Ospreys,"Sat 25th October 2025, 06:30pm SAST",Rodney Parade,19.0,19.0,7.0,12.0
-Munster,Connacht,"Sat 25th October 2025, 08:45pm SAST",Thomond Park,17.0,15.0,12.0,15.0
-Cardiff,Edinburgh,"Sat 25th October 2025, 08:45pm SAST",Cardiff Arms Park,20.0,19.0,12.0,19.0
+Stormers,Leinster,"Fri 26th September 2025, 07:00pm SAST",DHL Stadium,35,0,6,0
+Ulster,Dragons RFC,"Fri 26th September 2025, 09:05pm SAST",Affidea Stadium,42,21,28,14
+Glasgow Warriors,Sharks,"Fri 26th September 2025, 09:05pm SAST",Scotstoun Stadium,35,19,14,12
+Bulls,Ospreys,"Sat 27th September 2025, 02:00pm SAST",Loftus Versfeld,53,40,19,26
+Zebre,Edinburgh,"Sat 27th September 2025, 04:05pm SAST",Stadio Sergio Lanfranchi,31,28,21,14
+Scarlets,Munster,"Sat 27th September 2025, 06:30pm SAST",Parc y Scarlets,21,34,0,13
+Cardiff,Lions,"Sat 27th September 2025, 08:45pm SAST",Cardiff Arms Park,33,20,14,13
+Connacht,Benetton,"Sat 27th September 2025, 08:45pm SAST",Dexcom Stadium,26,15,12,3
+Edinburgh,Ulster,"Fri 13th March 2026, 09:45pm SAST",Hive Stadium,,,,
+Stormers,Ospreys,"Fri 3rd October 2025, 07:00pm SAST",DHL Stadium,26,10,8,10
+Dragons RFC,Sharks,"Fri 3rd October 2025, 09:05pm SAST",Rodney Parade,17,17,14,17
+Connacht,Scarlets,"Fri 13th March 2026, 09:45pm SAST",Dexcom Stadium,,,,
+Benetton,Glasgow Warriors,"Sat 4th October 2025, 06:30pm SAST",Stadio Comunale di Monigo,16,14,3,14
+Bulls,Leinster,"Sat 4th October 2025, 06:30pm SAST",Loftus Versfeld,39,31,22,10
+Munster,Cardiff,"Sat 4th October 2025, 08:45pm SAST",Thomond Park,23,20,5,5
+Zebre,Lions,"Sun 5th October 2025, 04:00pm SAST",Stadio Sergio Lanfranchi,22,20,12,3
+Munster,Edinburgh,"Fri 10th October 2025, 08:45pm SAST",Virgin Media Park,20,19,10,12
+Scarlets,Stormers,"Fri 10th October 2025, 08:45pm SAST",Parc y Scarlets,0,34,0,17
+Benetton,Lions,"Sat 11th October 2025, 04:00pm SAST",Stadio Comunale di Monigo,41,15,24,10
+Ospreys,Zebre,"Sat 11th October 2025, 04:00pm SAST",Brewery Field,24,0,14,0
+Glasgow Warriors,Dragons RFC,"Sat 11th October 2025, 06:30pm SAST",Scotstoun Stadium,49,0,14,0
+Leinster,Sharks,"Sat 11th October 2025, 06:30pm SAST",Aviva Stadium,31,5,21,5
+Ulster,Bulls,"Sat 11th October 2025, 08:45pm SAST",Affidea Stadium,28,7,7,7
+Cardiff,Connacht,"Sat 11th October 2025, 08:45pm SAST",Cardiff Arms Park,14,8,7,3
+Edinburgh,Benetton,"Fri 17th October 2025, 08:45pm SAST",Hive Stadium,43,0,21,0
+Connacht,Bulls,"Fri 17th October 2025, 08:45pm SAST",Dexcom Stadium,27,28,7,12
+Dragons RFC,Cardiff,"Fri 17th October 2025, 08:45pm SAST",Rodney Parade,17,24,7,17
+Lions,Scarlets,"Sat 18th October 2025, 01:45pm SAST",Ellis Park,29,18,5,3
+Sharks,Ulster,"Sat 18th October 2025, 04:00pm SAST",Hollywoodbets Kings Park,26,34,5,20
+Leinster,Munster,"Sat 18th October 2025, 06:15pm SAST",Croke Park,14,31,7,21
+Zebre,Stormers,"Sat 18th October 2025, 08:45pm SAST",Stadio Sergio Lanfranchi,13,31,7,12
+Ospreys,Glasgow Warriors,"Sat 18th October 2025, 08:45pm SAST",Brewery Field,17,42,10,21
+Glasgow Warriors,Bulls,"Fri 24th October 2025, 08:45pm SAST",Scotstoun Stadium,21,12,7,5
+Lions,Ulster,"Sat 25th October 2025, 01:45pm SAST",Ellis Park,49,31,17,19
+Sharks,Scarlets,"Sat 25th October 2025, 04:00pm SAST",Hollywoodbets Kings Park,29,19,19,14
+Leinster,Zebre,"Sat 25th October 2025, 06:30pm SAST",Aviva Stadium,50,26,26,21
+Benetton,Stormers,"Sat 25th October 2025, 06:30pm SAST",Stadio Comunale di Monigo,16,31,16,8
+Dragons RFC,Ospreys,"Sat 25th October 2025, 06:30pm SAST",Rodney Parade,19,19,7,12
+Munster,Connacht,"Sat 25th October 2025, 08:45pm SAST",Thomond Park,17,15,12,15
+Cardiff,Edinburgh,"Sat 25th October 2025, 08:45pm SAST",Cardiff Arms Park,20,19,12,19
 Ulster,Benetton,"Fri 28th November 2025, 09:45pm SAST",Affidea Stadium,,,,
 Dragons RFC,Leinster,"Fri 28th November 2025, 09:45pm SAST",Rodney Parade,,,,
 Bulls,Lions,"Sat 29th November 2025, 02:00pm SAST",Loftus Versfeld,,,,
